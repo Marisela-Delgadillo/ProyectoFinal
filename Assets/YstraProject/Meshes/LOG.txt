@@ -1,0 +1,4 @@
+Version 001_002
+- fixed vis switches on geo
+- fixed skin weights on teeth and tongue
+- reconnected eye texture
